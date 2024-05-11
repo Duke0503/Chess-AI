@@ -1,11 +1,5 @@
-# Chess-AI-pygame-Minimax-
+# Chess-AI-pygame-Minimax
 ## _Using the minimax algorithm (ALPHA BETA PRUNING)_ 
-
-
-## Check out my youtube channel for more: [AUCTUX](https://www.youtube.com/c/Auctux)
- chess game and chess AI using the Minimax algorithm.
-
-#### this code need a lot of optimization
 
 ## Features
 
@@ -18,7 +12,6 @@
 # Bugs & issues
 - No tie by move repetition
 - the chess ai is slow if the depth is more than 4
-- Also i haven't implemented the two player server. will probably do it in the future
 - ...
 
 > REQUIREMENTS
